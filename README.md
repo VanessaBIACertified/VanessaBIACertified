@@ -85,7 +85,7 @@ Focus: Business Strategy, Marketing, Financial Analysis, Negotiation
 
 ---
 
-## 💬 Let’s Connect
+## 💬 Let’s Connect 
 I'm currently open to full-time roles in:
 - Data Analysis
 - Business Intelligence
